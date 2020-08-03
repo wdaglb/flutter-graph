@@ -1,0 +1,6 @@
+.idea
+/data
+/bin
+/assets
+pubspec.yaml
+assets.dart
