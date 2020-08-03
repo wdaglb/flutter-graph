@@ -1,6 +1,6 @@
 # 自动分类flutter多倍图的小玩意
 
-需要再pubspec.yaml增加配置
+需要在pubspec.yaml增加配置
 
 ```
 ke:
